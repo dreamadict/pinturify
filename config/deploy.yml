@@ -1,0 +1,19 @@
+development:
+  host: dev.example.com
+  email: john@doe.net
+  password: apassword
+  # api_key: <your api key here>
+staging:
+  host: staging.example.com
+  email: john@doe.net
+  password: apassword
+  # api_key: <your api key here>
+production:
+  host: www.example.com
+  email: john@doe.net
+  password: apassword
+  # api_key: <your api key here>
+hosting:
+  host: pinturify.locomotivehosting.com
+  api_key: 95b3cc6c1257324868dcd79c9aa2776096745697
+  ssl: true
