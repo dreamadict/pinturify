@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'action_man';
+    src: url('../fonts/actionman_bold_macroman/Action_Man_Bold_Italic-webfont.eot');
+    src: url('../fonts/actionman_bold_macroman/Action_Man_Bold_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionman_bold_macroman/Action_Man_Bold_Italic-webfont.woff') format('woff'),
+         url('../fonts/actionman_bold_macroman/Action_Man_Bold_Italic-webfont.ttf') format('truetype'),
+         url('../fonts/actionman_bold_macroman/Action_Man_Bold_Italic-webfont.svg#action_manbold_italic') format('svg');
+    font-style: bold-italic;
+
+}
+
+@font-face {
+    font-family: 'action_man';
+    src: url('../fonts/actionman_bolditalic_macroman/Action_Man_Bold-webfont.eot');
+    src: url('../fonts/actionman_bolditalic_macroman/Action_Man_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionman_bolditalic_macroman/Action_Man_Bold-webfont.woff') format('woff'),
+         url('../fonts/actionman_bolditalic_macroman/Action_Man_Bold-webfont.ttf') format('truetype'),
+         url('../fonts/actionman_bolditalic_macroman/Action_Man_Bold-webfont.svg#action_manbold') format('svg');
+    font-style: bold;
+
+}
+
+@font-face {
+    font-family: 'action_man';
+    src: url('../fonts/actionman_italic_macroman/Action_Man_Italic-webfont.eot');
+    src: url('../fonts/actionman_italic_macroman/Action_Man_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionman_italic_macroman/Action_Man_Italic-webfont.woff') format('woff'),
+         url('../fonts/actionman_italic_macroman/Action_Man_Italic-webfont.ttf') format('truetype'),
+         url('../fonts/actionman_italic_macroman/Action_Man_Italic-webfont.svg#action_manitalic') format('svg');
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'action_man';
+    src: url('../fonts/actionman_regular_macroman/Action_Man-webfont.eot');
+    src: url('../fonts/actionman_regular_macroman/Action_Man-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/actionman_regular_macroman/Action_Man-webfont.woff') format('woff'),
+         url('../fonts/actionman_regular_macroman/Action_Man-webfont.ttf') format('truetype'),
+         url('../fonts/actionman_regular_macroman/Action_Man-webfont.svg#action_manregular') format('svg');
+    font-style: normal;
+
+}
+
